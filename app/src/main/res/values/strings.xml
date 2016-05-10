@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Growth</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_add">添加</string>
+    <string name="action_update">修改</string>
+    <string name="action_delete">删除</string>
+
+</resources>
